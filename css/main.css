@@ -1,0 +1,46 @@
+div#animal_buttons {
+  padding-bottom: 1.5em ;
+  text-align: center ;
+}
+
+div#animal_buttons button {
+  font-size: 1.5em ;
+  margin: 1.5em 1.5em 0 1.5em ;
+  padding: 1em ;
+}
+
+div.clearfix{
+  clear: both ;
+  margin-bottom: 3em ;
+}
+
+div.scroll_aligner{
+  margin-top: 100vw ;
+  padding: 2em ;
+  text-align: center ;
+}
+
+div.show_source {
+  border: thin lightgray solid ;
+}
+
+div.show_source_multi {
+  float: left ;
+  padding: 0.2em ;
+  width: 45vw ;
+}
+
+div.show_source h2 {
+  margin: 0 ;
+  padding: 0 ;
+  text-align: center ;
+}
+
+div.show_source pre {
+  overflow: auto ;
+}
+
+h1 {
+  margin: 0 ;
+  padding: 0 ;
+}
