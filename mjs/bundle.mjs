@@ -30,8 +30,6 @@ var intermediate = {
   submodule_fish: submodule_fish
 };
 
-console.log( 'BUGGA', intermediate ) ;
-
 const mk_btn = ( entry = {} ) =>
   {
     if( typeof entry !== 'object' ) return ;

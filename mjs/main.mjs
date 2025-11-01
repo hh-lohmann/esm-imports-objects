@@ -1,7 +1,5 @@
 import * as intermediate from './intermediate.mjs' ;
 
-console.log( 'BUGGA', intermediate ) ;
-
 const mk_btn = ( entry = {} ) =>
   {
     if( typeof entry !== 'object' ) return ;
